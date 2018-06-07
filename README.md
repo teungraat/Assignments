@@ -8,6 +8,8 @@ This repository contains my assignments
 [Assignment 2 R, 14-5-2018]
 (https://github.com/teungraat/Assignments/blob/master/Graded_assignment_2%20(1).ipynb)
 
-[Exam june 7, 2018]
+[Exam python june 7, 2018]
 (https://github.com/teungraat/Assignments/blob/master/exam_june_7_2018%20(1).ipynb)
 
+[Exam R june 7, 2018]
+(https://github.com/teungraat/Assignments/blob/master/Exam_student%20(1).ipynb)
