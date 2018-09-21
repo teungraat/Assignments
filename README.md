@@ -13,3 +13,9 @@ This repository contains my assignments
 
 [Exam R june 7, 2018]
 (https://github.com/teungraat/Assignments/blob/master/Exam_student%20(1).ipynb)
+
+[Exam Python september 21, 2018]
+https://github.com/teungraat/Assignments/blob/master/exam_Sep_21_2018.ipynb
+
+[Exam R september 21, 2018]
+https://github.com/teungraat/Assignments/blob/master/exam_2_student.ipynb
